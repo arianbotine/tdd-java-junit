@@ -10,6 +10,6 @@ public class CalculadoraTest {
 		Calculadora calc = new Calculadora();
 		int soma = calc.somar(5, 6);
 		
-		Assert.assertEquals(10, soma);
+		Assert.assertEquals(11, soma);
 	}
 }
